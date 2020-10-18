@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(240, 239, 239);
+    
+    }
+    .profile
+    {
+      
+    margin-right: 4%;
+    width: 30%;
+    
+    
+    }
+.intro
+{   
+    padding-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+h1
+{   color: rgb(83, 82, 82);
+    font-size: 4rem;
+}
+.bio{  
+    font-size: 1.25rem;
+    color: gray;
+    padding-right: 20%;
+}
+.info{  
+    font-size: 1.25rem;
+    color: gray;
+    padding-right: 20%;
+}
+.social
+{   padding-top: 4%;
+    padding-left: 50%;
+    width: 10%;
+    cursor: pointer;
+}
+.blank
+{
+    padding-left: 10%;
+}
